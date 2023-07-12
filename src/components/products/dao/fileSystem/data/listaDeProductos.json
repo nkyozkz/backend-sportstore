@@ -1,0 +1,58 @@
+[
+  {
+    "id": "63fd0160e34d90b073107b4d",
+    "title": "Botas Northface",
+    "description": "Botas para la nieve",
+    "code": "1257",
+    "price": 2500,
+    "status": true,
+    "stock": 14,
+    "category": "Zapatos Y Botas",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_833119-MCO44811095337_022021-W.jpg"
+  },
+  {
+    "id": "63fd01f7e34d90b073107b52",
+    "title": "Mochila de senderismo",
+    "description": "Mochila de senderismo DS 18 litros",
+    "code": "0002",
+    "price": 6050,
+    "status": true,
+    "stock": 9,
+    "category": "Bolsos Y Mochilas",
+    "thumbnail": "https://contents.mediadecathlon.com/p2148630/k$c01e1c355dfb6668d4f5acf"
+    
+  },
+  {
+    "id": "63fd02e7e34d90b073107b65",
+    "title": "Paleta de Ping Pong PRP-200",
+    "description": "Paleta de pingo pong profesional",
+    "code": "9283",
+    "price": 150,
+    "status": true,
+    "stock": 7,
+    "category": "Deportes",
+    "thumbnai": "https://www.dhresource.com/0x0/f2/albu/g7/M00/F8/C5/rBVaSlu3DaGAMHl5AACykm0tHY0276.jpg"
+  },
+  {
+    "id": "63fd0407e34d90b073107b6a",
+    "title": "Cuerda Antidote",
+    "description": "Cuerda para escalada 10.2mm x 50mt",
+    "code": "7283",
+    "price": 1300,
+    "status": true,
+    "stock": 10,
+    "category": "Equipamiento",
+    "thumbnail": "https://www.escalada.cl/wp-content/uploads/2020/04/687-tm_large_default.jpg"
+  },
+  {
+    "id": "63fd04bb3e69dbe7ecc23f2a",
+    "title": "Barra Protein Chocolate",
+    "description": "barra con 24g de proteina sin azucar añadida",
+    "code": "a298",
+    "price": 120,
+    "status": true,
+    "stock": 25,
+    "category": "Snacks",
+    "thumbnail": "https://ultimatefitness.cl/wp-content/uploads/2022/09/wild-protein-chocolate-5-unidades_1200x-1.png"
+  }
+]
